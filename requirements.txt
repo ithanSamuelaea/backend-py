@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Werkzeug
+marshmallow
+pyodbc
+Flask-cors
+Flask-restful
